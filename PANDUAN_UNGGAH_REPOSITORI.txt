@@ -1,0 +1,24 @@
+PANDUAN MENGUNGGAH DATA SLR KE REPOSITORI (± 15 menit)
+
+Pilihan yang disarankan: ZENODO (gratis, langsung memberi DOI, diakui jurnal).
+
+1. Buka https://zenodo.org → Log in (bisa memakai akun GitHub/ORCID/Google).
+2. Klik "New upload".
+3. Unggah berkas: SLR_Drought_FoodPrices_Indonesia_data.zip (atau isi foldernya satu per satu).
+4. Isi metadata:
+   - Resource type: Dataset
+   - Title: Data and materials for "Transmission of Drought and El Niño Shocks to Food Prices in Indonesia: A Systematic Literature Review"
+   - Creators: Rumintarsih, Ade (Boash University; ORCID 0000-0002-3972-9822); Nuarini, Sri (isi afiliasi)
+   - Description: salin bagian "Contents" dari README.md
+   - License: Creative Commons Attribution 4.0 International
+   - Keywords: systematic review, PRISMA 2020, drought, El Niño, food prices, Indonesia
+   - Version: 1.0
+5. Klik "Publish". Zenodo langsung memberi DOI (contoh: 10.5281/zenodo.xxxxxxx).
+   Catatan: bila ingin data baru terbuka setelah artikel diterima, pilih "Access: Restricted/Embargoed" lalu buka kemudian; DOI tetap sama.
+6. Kirim DOI tersebut ke saya. Saya akan memasukkannya ke:
+   - bagian DATA AVAILABILITY naskah AGRARIS,
+   - Deklarasi naskah Indonesia,
+   - README.
+
+Alternatif OSF (https://osf.io): Create project → unggah berkas → Settings → Make public → Create DOI.
+Registrasi protokol (opsional, untuk bagian "Protocol and Registration"): di OSF pilih "Registrations" → template "Generalized Systematic Review Registration". Karena review sudah berjalan, tulis di naskah: "The protocol was not prospectively registered; it is available in the repository."
